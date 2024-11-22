@@ -17,12 +17,12 @@ Desnim klikom na vod koji spaja dva entiteta se pokreće animacija koja traje je
 Potrebno je omogućiti zumiranje prikaza mreže tako da se pomoću skrol-barova može pomerati pogled nad zumiranom delu mreže, kao i da se prikaz mreže može „odzumirati“. 
 
 Na vrhu prozora, potrebno je ponuditi korisniku opcije da se iscrtani graf mreže može dopunitioblicima i/ili tekstom:
-a. Draw Ellipse: izborom ove opcije, potom klikom na desni taster miša na površini Canvas-a otvara se novi prozor u okviru kojeg se unose i biraju atributi elipse (dužine poluprečnika, debljina konturne linije, boje) posle čega se iscrtava elipsa po zadatim atributima. Takođe, opciono ponuditi korisniku da unese tekst koji će biti napisan na površini iscrtane elipse i izbor boje teksta (veličina teksta je fiksirana). 
-b. Draw Polygon: izborom ove opcije, potom klikom na desni taster miša na Canvas određuju se tačke koje će ograničiti površinu poligona. Kada se sve tačke odrede, levim klikom na površini Canvas-a otvara se novi prozor u okviru kojeg se unose i biraju atributi poligona (debljina konturne linije, boje) posle čega se iscrtava poligon po zadatim atributima. Takođe, opciono ponuditi korisniku da unese tekst koji će biti napisan na površini iscrtanog poligona i izbor boje teksta (veličina teksta je fiksirana). 
-c. Add Text: izborom ove opcije, potom klikom na desni taster miša na površini Canvas-a otvara se novi prozor u okviru kojeg se unose i biraju atributi teksta: sam tekst, njegova boja i veličina. 
-d. Undo: poništava iscrtavanje oblika ili teksta (nakon Clear vraća sve što je obrisano) 
-e. Redo: vraća prethodno uklonjen oblik ili tekst 
-f. Clear: prazni Canvas od svih iscrtanih oblika ili teksta 
+- a. Draw Ellipse: izborom ove opcije, potom klikom na desni taster miša na površini Canvas-a otvara se novi prozor u okviru kojeg se unose i biraju atributi elipse (dužine poluprečnika, debljina konturne linije, boje) posle čega se iscrtava elipsa po zadatim atributima. Takođe, opciono ponuditi korisniku da unese tekst koji će biti napisan na površini iscrtane elipse i izbor boje teksta (veličina teksta je fiksirana). 
+- b. Draw Polygon: izborom ove opcije, potom klikom na desni taster miša na Canvas određuju se tačke koje će ograničiti površinu poligona. Kada se sve tačke odrede, levim klikom na površini Canvas-a otvara se novi prozor u okviru kojeg se unose i biraju atributi poligona (debljina konturne linije, boje) posle čega se iscrtava poligon po zadatim atributima. Takođe, opciono ponuditi korisniku da unese tekst koji će biti napisan na površini iscrtanog poligona i izbor boje teksta (veličina teksta je fiksirana). 
+- c. Add Text: izborom ove opcije, potom klikom na desni taster miša na površini Canvas-a otvara se novi prozor u okviru kojeg se unose i biraju atributi teksta: sam tekst, njegova boja i veličina. 
+- d. Undo: poništava iscrtavanje oblika ili teksta (nakon Clear vraća sve što je obrisano) 
+- e. Redo: vraća prethodno uklonjen oblik ili tekst 
+- f. Clear: prazni Canvas od svih iscrtanih oblika ili teksta 
 
 Kao dodatne opcije vizuelizacije mreže u aplikaciji, potrebno je: 
 - entitete (osim vodova) crtati različitim intenzitetom boje na osnovu broja konekcija: od 0 do 3 konekcije - svetlo crvena; od 3 do 5 - crvena; više od 5 - intenzivno crvena. 
