@@ -34,7 +34,7 @@ Kao dodatne opcije vizuelizacije mreže u aplikaciji, potrebno je:
 - sačuvati trenutni prikaz u Canvas-u kao sliku, tako da ime fajla sadrži vremenski trenutak kada je slika sačuvana 
 
 Napomene: 
--Tooltip-ovi prikazuju ID i ime entiteta, a prikazuju se i za veze (vodove). 
--Svi oblici (i tekst) se iscrtavaju tako da im je gornji levi ugao pozicija gde je pokazivačem miša kliknuto da bi se inicirala akcija crtanja. Kada se kaže “na površinu Canvas-a” tu se misli i na prethodno nacrtane oblike i tekst (mogu se iscrtavati jedni preko drugih). 
--Svaki od iscrtanih oblika i tekst treba da ima opciju da se klikom levim tasterom miša na njega mogu menjati njegovi atributi izgleda (boje i debljine konturna linije, a za tekst njegova boja i veličina). 
--Prilikom bojenja oblika koji se iscrtavaju preko mreže, ponuditi opciju da se izabranoj boji može dati efekat providnosti.
+- Tooltip-ovi prikazuju ID i ime entiteta, a prikazuju se i za veze (vodove). 
+- Svi oblici (i tekst) se iscrtavaju tako da im je gornji levi ugao pozicija gde je pokazivačem miša kliknuto da bi se inicirala akcija crtanja. Kada se kaže “na površinu Canvas-a” tu se misli i na prethodno nacrtane oblike i tekst (mogu se iscrtavati jedni preko drugih). 
+- Svaki od iscrtanih oblika i tekst treba da ima opciju da se klikom levim tasterom miša na njega mogu menjati njegovi atributi izgleda (boje i debljine konturna linije, a za tekst njegova boja i veličina). 
+- Prilikom bojenja oblika koji se iscrtavaju preko mreže, ponuditi opciju da se izabranoj boji može dati efekat providnosti.
